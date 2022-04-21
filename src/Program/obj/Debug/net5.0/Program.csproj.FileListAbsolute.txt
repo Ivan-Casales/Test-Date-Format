@@ -1,0 +1,16 @@
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\bin\Debug\net5.0\Program.exe
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\bin\Debug\net5.0\Program.deps.json
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\bin\Debug\net5.0\Program.runtimeconfig.json
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\bin\Debug\net5.0\Program.dll
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\bin\Debug\net5.0\ref\Program.dll
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\bin\Debug\net5.0\Program.pdb
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\obj\Debug\net5.0\Program.csproj.AssemblyReference.cache
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\obj\Debug\net5.0\Program.dll
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\obj\Debug\net5.0\ref\Program.dll
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\obj\Debug\net5.0\Program.pdb
+C:\Users\Iván\OneDrive - Universidad Católica del Uruguay\Programación 2\Ejercicios después Turismo\Debug and Test\Test Date Format\Test-Date-Format\src\Program\obj\Debug\net5.0\Program.genruntimeconfig.cache

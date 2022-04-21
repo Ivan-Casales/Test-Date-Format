@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\scr\\Program\\Program.csproj": {}
+    "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\scr\\Program\\Program.csproj": {
+    "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\scr\\Program\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\scr\\Program\\Program.csproj",
+        "projectPath": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj",
         "packagesPath": "C:\\Users\\Iván\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\scr\\Program\\obj\\",
+        "outputPath": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Iván\\AppData\\Roaming\\NuGet\\NuGet.Config"
