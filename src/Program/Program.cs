@@ -9,7 +9,7 @@ using System;
 
 namespace DateFormat
 {
-    public class Program
+   public class Program
     {
         public static String ChangeFormat1(String year)
         {
@@ -27,6 +27,9 @@ namespace DateFormat
         {
             string testDate = "10/11/1977";
             Console.WriteLine("{0} se convierte a: {1} ", testDate, ChangeFormat1(testDate));
+
+            string testDate2 = "10/11/1977";
+            Console.WriteLine("{0} se convierte a: {1} ", testDate2, ChangeFormat2(testDate));
         }
     }
 }
