@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Iván\\.nuget\\packages\\": {}
+    "C:\\Users\\casal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj",
+      "projectUniqueName": "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj",
-      "packagesPath": "C:\\Users\\Iván\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\obj\\",
+      "projectPath": "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj",
+      "packagesPath": "C:\\Users\\casal\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Iván\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\casal\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }

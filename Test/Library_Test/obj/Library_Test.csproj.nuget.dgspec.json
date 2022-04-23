@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\Test\\Library_Test\\Library_Test.csproj": {}
+    "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\Test\\Library_Test\\Library_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj": {
+    "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj",
+        "projectUniqueName": "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj",
-        "packagesPath": "C:\\Users\\Iván\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\obj\\",
+        "projectPath": "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj",
+        "packagesPath": "C:\\Users\\casal\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Iván\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\casal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,21 +52,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\Test\\Library_Test\\Library_Test.csproj": {
+    "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\Test\\Library_Test\\Library_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\Test\\Library_Test\\Library_Test.csproj",
+        "projectUniqueName": "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\Test\\Library_Test\\Library_Test.csproj",
         "projectName": "Library_Test",
-        "projectPath": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\Test\\Library_Test\\Library_Test.csproj",
-        "packagesPath": "C:\\Users\\Iván\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\Test\\Library_Test\\obj\\",
+        "projectPath": "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\Test\\Library_Test\\Library_Test.csproj",
+        "packagesPath": "C:\\Users\\casal\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\Test\\Library_Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Iván\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\casal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj": {
-                "projectPath": "C:\\Users\\Iván\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj"
+              "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj": {
+                "projectPath": "c:\\Users\\casal\\OneDrive - Universidad Católica del Uruguay\\Programación 2\\Ejercicios después Turismo\\Debug and Test\\Test Date Format\\Test-Date-Format\\src\\Program\\Program.csproj"
               }
             }
           }
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
